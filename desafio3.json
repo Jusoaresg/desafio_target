@@ -1,0 +1,64 @@
+{
+	"faturamento_mensal": [
+		{
+			"mês": "Janeiro",
+			"ano": 2024,
+			"faturamento": 12000.00
+		},
+		{
+			"mês": "Fevereiro",
+			"ano": 2024,
+			"faturamento": 11500.00
+		},
+		{
+			"mês": "Março",
+			"ano": 2024,
+			"faturamento": 13000.00
+		},
+		{
+			"mês": "Abril",
+			"ano": 2024,
+			"faturamento": 14000.00
+		},
+		{
+			"mês": "Maio",
+			"ano": 2024,
+			"faturamento": 12500.00
+		},
+		{
+			"mês": "Junho",
+			"ano": 2024,
+			"faturamento": 13500.00
+		},
+		{
+			"mês": "Julho",
+			"ano": 2024,
+			"faturamento": 14500.00
+		},
+		{
+			"mês": "Agosto",
+			"ano": 2024,
+			"faturamento": 15500.00
+		},
+		{
+			"mês": "Setembro",
+			"ano": 2024,
+			"faturamento": 16000.00
+		},
+		{
+			"mês": "Outubro",
+			"ano": 2024,
+			"faturamento": 15000.00
+		},
+		{
+			"mês": "Novembro",
+			"ano": 2024,
+			"faturamento": 14000.00
+		},
+		{
+			"mês": "Dezembro",
+			"ano": 2024,
+			"faturamento": 17000.00
+		}
+	]
+}
